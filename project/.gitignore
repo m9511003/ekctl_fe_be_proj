@@ -1,0 +1,14 @@
+# backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/limits.json
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+
+# output artifacts
+output/*
+!output/.gitkeep
